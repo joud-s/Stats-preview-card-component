@@ -1,5 +1,5 @@
 - Solution URL: (https://github.com/joud-s/Stats-preview-card-component)
-
+- live Solution URL:(https://joud-s.github.io/Stats-preview-card-component/)
 ## My process
 
 ### Built with
