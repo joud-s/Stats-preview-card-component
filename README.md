@@ -40,5 +40,5 @@
 
 ## Author
 
-- Frontend Mentor - [@yjoud-s](https://www.frontendmentor.io/profile/joud-s)
+- Frontend Mentor - [@joud-s](https://www.frontendmentor.io/profile/joud-s)
 - Twitter - [@joudishaker](https://www.twitter.com/joudishaker)
